@@ -32,7 +32,7 @@ public class Plane {
 
     @Override
     public String toString() {
-        return "Plane " + "ID= " + ID + ", capacity=" + capacity;
+        return  ID + " (" + capacity + ")ppl";
     }
     
     
